@@ -1,39 +1,45 @@
-# Hi, I'm Cristian 👋
+# Data Analytics Portfolio Website
 
-Data Analyst with hands-on experience in SQL, Python, Pandas, Tableau, PostgreSQL, statistical analysis, and business-focused data projects.
+This repository contains the source code for my personal Data Analytics portfolio website.
 
-I have a background in Electronic Engineering and experience solving technical problems in real-world environments. I recently completed a Data Analytics bootcamp and I am currently focused on transitioning into a Data Analyst role.
+The portfolio was created to present my professional profile, technical skills, selected data projects, and contact information in a clear and accessible format.
 
-## 🔧 Technical Skills
+## 🌐 Live Portfolio
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- SciPy
-- PostgreSQL
-- Tableau
-- Statistical Analysis
-- A/B Testing
-- Data Visualization
-- Git & GitHub
+[View the live portfolio](https://cjulianr92-afk.github.io)
 
 ## 📊 Featured Projects
 
-### CallMeMaybe — Operator Efficiency Analysis
-Analyzed telecom operator performance using call activity, missed calls, and response-time metrics. Identified high-priority operators and created an interactive Tableau dashboard.
+The portfolio currently highlights several projects that demonstrate different areas of data analytics:
 
-### Recommender System A/B Test Analysis
-Evaluated an A/B test for a recommendation system, analyzed conversion across key funnel stages, and applied statistical hypothesis testing.
+- **CallMeMaybe — Operator Efficiency Analysis**
+  - Operational performance analysis
+  - Statistical analysis
+  - Tableau dashboard
 
-### Book Market SQL Analysis
-Analyzed a PostgreSQL database using JOINs, subqueries, GROUP BY, HAVING, and aggregate functions to identify publishing and user engagement patterns.
+- **Recommender System A/B Test Analysis**
+  - Experiment validation
+  - Conversion funnel analysis
+  - Statistical hypothesis testing
 
-## 🌐 Portfolio
+- **Book Market SQL Analysis**
+  - PostgreSQL
+  - JOINs and subqueries
+  - Aggregations and business insights
 
-[View my portfolio](https://cjulianr92-afk.github.io)
+## 🛠️ Technologies Used
+
+- HTML
+- CSS
+- GitHub Pages
+- Git
+- GitHub
+
+## 🎯 Purpose
+
+The goal of this portfolio is to provide recruiters and hiring teams with a quick overview of my Data Analytics work and direct access to the supporting repositories, dashboards, and project evidence.
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/cristian-rodriguez-2b7892286
+- [LinkedIn](https://www.linkedin.com/in/cristian-rodriguez-2b7892286)
 - Email: cjulianr.92@gmail.com
